@@ -6,5 +6,5 @@ app.get('/', function (req, res) {
 })
 
 app.listen(port, function () {
-  console.log('Magic is happening on port 3000!')
+  console.log(`Magic is happening on port ${port}!`)
 })
