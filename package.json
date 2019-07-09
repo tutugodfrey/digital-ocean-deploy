@@ -1,0 +1,23 @@
+{
+  "name": "digital-ocean-deploy",
+  "version": "1.0.0",
+  "description": "Practice how to deploy node app to digital ocean",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tutugodfrey/digital-ocean-deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tutugodfrey/digital-ocean-deploy/issues"
+  },
+  "homepage": "https://github.com/tutugodfrey/digital-ocean-deploy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
